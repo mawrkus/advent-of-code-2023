@@ -1,5 +1,5 @@
 export function parseInput(textInput) {
-  const input = textInput.trim().split("\n");
+  const input = textInput.trim().split('\n');
 
   console.log(input);
 

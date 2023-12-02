@@ -3,15 +3,15 @@ import { parseInput } from './parseInput.js';
 import textInput from './input.js';
 
 function solve(input) {
-	let output = 0;
+  let output = 0;
 
-	for (const line of input) {
-		const matches = line.match(/(\d)/g);
+  for (const line of input) {
+    const matches = line.match(/(\d)/g);
 
-		output += Number(matches.at(0) + matches.at(-1));
-	}
+    output += Number(matches.at(0) + matches.at(-1));
+  }
 
-	return output;
+  return output;
 }
 
 const output = solve(parseInput(textInput));
