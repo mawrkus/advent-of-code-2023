@@ -1,9 +1,9 @@
 import { parseInput } from "./parseInput.js";
 // import textInput from "./sample.js";
 import textInput from "./input.js";
-
-import { isSymbol } from "./helpers/isSymbol.js";
 import { getAdjacentParts } from "./helpers/getAdjacentParts.js";
+
+const isSymbol = (char) => !/(\d|\.)/.test(char);
 
 function solve(input) {
   let output = 0;
