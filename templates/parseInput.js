@@ -1,7 +1,9 @@
-export function parseInput(textInput) {
-  const input = textInput.trim().split('\n');
+export function parseInput(textInput, log = true) {
+  const input = textInput.trim().split("\n");
 
-  console.log(input);
+  if (log) {
+    console.log(input);
+  }
 
   return input;
 }
