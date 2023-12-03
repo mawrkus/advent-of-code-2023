@@ -12,10 +12,16 @@ const isDigit = (char) => /\d/.test(char);
 
 const parseNumber = (posX, posY, input) => {
   const line = input[posY];
-  let rawNumber = "";
-  let x = posX;
 
-  while (isDigit(line[--x]));
+  let x = posX;
+  let rawNumber = line[x];
+
+  while (isDigit(line[--x])) {
+    rawNumber = line[x] + rawNumber;
+    partsCoords.add(x, posY);
+  }
+
+  x = posX;
 
   while (isDigit(line[++x])) {
     rawNumber += line[x];
