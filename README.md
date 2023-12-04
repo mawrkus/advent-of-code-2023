@@ -9,7 +9,7 @@ Big ups to [Eric Wastl](https://twitter.com/ericwastl) for organising this event
 | [Day 1: Trebuchet?!](./day01)    |  ⭐⭐  |
 | [Day 2: Cube Conundrum](./day02) |  ⭐⭐  |
 | [Day 3: Gear Ratios](./day03)    |  ⭐⭐  |
-| [Day 4: ?](./day04)              |  🧠🧠  |
+| [Day 4: Scratchcards](./day04)   |  ⭐⭐  |
 | [Day 5: ?](./day05)              |  🧠🧠  |
 | [Day 6: ?](./day06)              |  🧠🧠  |
 | [Day 7: ?](./day07)              |  🧠🧠  |
