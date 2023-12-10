@@ -14,7 +14,7 @@ export function buildFilesForTheDay(dayFolderPath, variables) {
     fs.writeFileSync(filePath, content, { encoding: "utf-8" });
   });
 
-  if (variables.partNumber === 1) {
+  if (variables.puzzleNumber === 1) {
     const readmePath = path.join(process.cwd(), "README.md");
     const readmeContent = fs.readFileSync(readmePath, { encoding: "utf-8" });
 

@@ -3,7 +3,7 @@ import path from "path";
 
 import { buildFilesForTheDay } from "./helpers/buildFilesForTheDay.js";
 import { fetchPuzzle } from "./helpers/fetchPuzzle.js";
-import { parseDayNumber } from "./helpers/parseDayNumber.js";
+import { parseDayNumber } from "./helpers/parse.js";
 
 const dayNumber = parseDayNumber();
 const dayFolderPath = createDayFolder(dayNumber);
