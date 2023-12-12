@@ -15,8 +15,8 @@ Big ups to [Eric Wastl](https://twitter.com/ericwastl) for organising this event
 | [Day 7: Camel Cards](./day07)                     |  ⭐⭐  |
 | [Day 8: Haunted Wasteland](./day08)               |  ⭐⭐  |
 | [Day 9: Mirage Maintenance](./day09)              |  ⭐⭐  |
-| [Day 10: ?](./day10)                              |  🧠🧠  |
-| [Day 11: ?](./day11)                              |  🧠🧠  |
+| [Day 10: Pipe Maze](./day10)                      |  ⭐⭐  |
+| [Day 11: Cosmic Expansion](./day11)               |  ⭐⭐  |
 | [Day 12: ?](./day12)                              |  🧠🧠  |
 | [Day 13: ?](./day13)                              |  🧠🧠  |
 | [Day 14: ?](./day14)                              |  🧠🧠  |
