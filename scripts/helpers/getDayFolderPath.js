@@ -1,4 +1,4 @@
-import path from "path";
+import path from 'path';
 
 export function getDayFolderPath(dayNumber) {
   const paddedDayNumber = dayNumber < 10 ? `0${dayNumber}` : dayNumber;

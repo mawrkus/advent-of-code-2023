@@ -6,7 +6,6 @@
   "scripts": {
     "start:day": "node scripts/start-day.js",
     "get:input": "node scripts/get-input.js",
-    "post:input": "node scripts/post-input.js",
     "continue:day": "node scripts/continue-day.js",
     "finish:day": "node scripts/finish-day.js"
   },
@@ -25,5 +24,8 @@
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.0.3",
     "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
   }
 }
