@@ -52,7 +52,8 @@ The **initialization sequence** (your puzzle input) is a comma-separated list of
 For example:
 
 ```text
-rn=1,cm-,qp=3,cm=2,qp-,pc=4,ot=9,ab=5,pc-,pc=6,ot=7```
+rn=1,cm-,qp=3,cm=2,qp-,pc=4,ot=9,ab=5,pc-,pc=6,ot=7
+```
 
 This initialization sequence specifies 11 individual steps; the result of running the HASH algorithm on each of the steps is as follows:
 
@@ -158,11 +159,11 @@ To confirm that all of the lenses are installed correctly, add up the **focusing
 
 At the end of the above example, the focusing power of each lens is as follows:
 
-- `rn`: `1` (box 0) * `1` (first slot) * `1` (focal length) = **`1`**
-- `cm`: `1` (box 0) * `2` (second slot) * `2` (focal length) = **`4`**
-- `ot`: `4` (box 3) * `1` (first slot) * `7` (focal length) = **`28`**
-- `ab`: `4` (box 3) * `2` (second slot) * `5` (focal length) = **`40`**
-- `pc`: `4` (box 3) * `3` (third slot) * `6` (focal length) = **`72`**
+- `rn`: `1` (box 0) _ `1` (first slot) _ `1` (focal length) = **`1`**
+- `cm`: `1` (box 0) _ `2` (second slot) _ `2` (focal length) = **`4`**
+- `ot`: `4` (box 3) _ `1` (first slot) _ `7` (focal length) = **`28`**
+- `ab`: `4` (box 3) _ `2` (second slot) _ `5` (focal length) = **`40`**
+- `pc`: `4` (box 3) _ `3` (third slot) _ `6` (focal length) = **`72`**
 
 So, the above example ends up with a total focusing power of **`145`**.
 
