@@ -21,6 +21,7 @@ Big ups to [Eric Wastl](https://twitter.com/ericwastl) for organising this event
 | [Day 13: Point of Incidence](./day13)             |  ⭐⭐  |
 | [Day 14: Parabolic Reflector Dish](./day14)       |  ⭐⭐  |
 | [Day 15: Lens Library](./day15)                   |  ⭐⭐  |
+| [Day 16: The Floor Will Be Lava](./day16)         |  ⭐⭐  |
 | [Day 17: ?](./day17)                              |  🧠🧠  |
 | [Day 18: ?](./day18)                              |  🧠🧠  |
 | [Day 19: ?](./day19)                              |  🧠🧠  |
@@ -30,4 +31,3 @@ Big ups to [Eric Wastl](https://twitter.com/ericwastl) for organising this event
 | [Day 23: ?](./day23)                              |  🧠🧠  |
 | [Day 24: ?](./day24)                              |  🧠🧠  |
 | [Day 25: ?](./day25)                              |  🧠🧠  |
-| [Day 16: The Floor Will Be Lava](./day16)         |  ⭐⭐  |
