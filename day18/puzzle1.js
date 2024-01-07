@@ -84,6 +84,7 @@ function buildDigPlan(instructions) {
   return { digPlan, perimeter, xMin, xMax };
 }
 
+// similar to day10 part 2
 function calculateSurface(digPlan) {
   let enclosedSize = 0;
 
@@ -114,7 +115,6 @@ function solve(input) {
 
   const { digPlan, perimeter, xMin, xMax } = buildDigPlan(input);
 
-  // similar to day10 part 2
   output = calculateSurface(digPlan) + perimeter;
 
   displayPlan(digPlan, xMin, xMax);
