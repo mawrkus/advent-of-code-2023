@@ -22,8 +22,8 @@ Big ups to [Eric Wastl](https://twitter.com/ericwastl) for organising this event
 | [Day 14: Parabolic Reflector Dish](./day14)       |  ⭐⭐  |
 | [Day 15: Lens Library](./day15)                   |  ⭐⭐  |
 | [Day 16: The Floor Will Be Lava](./day16)         |  ⭐⭐  |
-| [Day 17: ?](./day17)                              |  🧠🧠  |
-| [Day 18: ?](./day18)                              |  🧠🧠  |
+| [Day 17: Clumsy Crucible](./day17)                |  🧠🧠  |
+| [Day 18: Lavaduct Lagoon](./day18)                |  ⭐⭐  |
 | [Day 19: ?](./day19)                              |  🧠🧠  |
 | [Day 20: ?](./day20)                              |  🧠🧠  |
 | [Day 21: ?](./day21)                              |  🧠🧠  |
