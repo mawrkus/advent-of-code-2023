@@ -24,7 +24,7 @@ Big ups to [Eric Wastl](https://twitter.com/ericwastl) for organising this event
 | [Day 16: The Floor Will Be Lava](./day16)         |  ⭐⭐  |
 | [Day 17: Clumsy Crucible](./day17)                |  🧠🧠  |
 | [Day 18: Lavaduct Lagoon](./day18)                |  ⭐⭐  |
-| [Day 19: ?](./day19)                              |  🧠🧠  |
+| [Day 19: Aplenty](./day19)                        |  ⭐⭐  |
 | [Day 20: ?](./day20)                              |  🧠🧠  |
 | [Day 21: ?](./day21)                              |  🧠🧠  |
 | [Day 22: ?](./day22)                              |  🧠🧠  |
